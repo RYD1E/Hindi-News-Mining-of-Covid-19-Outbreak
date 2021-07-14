@@ -1,0 +1,19 @@
+
+
+							Developing And Analysing A Hindi Corpus
+						       -----------------------------------------
+
+											_A Mini Project By Shubham Pathak
+-------------------------------------------------------------------------------------------------------------------------------------------------
+_________________________________________________________________________________________________________________________________________________
+
+
+Additional file for stopwords
+-----------------------------
+I have put a file (hindi . file) that i created for stopwords in the'C:\Users\Shubham\AppData\Roaming\nltk_data\corpora\stopwords'.
+u can copy and paste it in the corpora\stopwords.
+its with this readme file in the same folder.
+
+Additional font file
+--------------------
+I have used Lohit-Devanagari.ttf as the font for the word cloud. its too along with this text file.
